@@ -1,2 +1,2 @@
 
-print('Hello World for Jenkins Job by ad')
+print('Hello World for Jenkins Job by mp')
